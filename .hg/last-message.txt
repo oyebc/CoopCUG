@@ -1,0 +1,1 @@
+Attempting pointerPressed and pointerReleased for ContactDetailsCustomItem.
